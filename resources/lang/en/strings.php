@@ -9,6 +9,7 @@ return [
     'confirm_password' => 'Confirm new password',
     'login' => 'Login',
     'home' => 'Home',
+    'Coeur' => 'Core',
     'servers' => 'Servers',
     'id' => 'ID',
     'name' => 'Name',
